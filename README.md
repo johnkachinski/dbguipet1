@@ -1,0 +1,2 @@
+It is a version of a GUI app for a specific database. There is not much serious than a just pet project.
+For running the app you need to create a .env file with variables as DB_HOST, DB_NAME, DB_PASSWORD, DB_USERNAME with your own values of a MySQL database.
